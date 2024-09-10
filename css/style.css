@@ -32,7 +32,7 @@ Table of Content:
 12/ blog 
 13/ video  
 14/ features  
-15/ career  
+15/ career
 16/ contact 
 17/ footer
 
@@ -208,7 +208,7 @@ button:focus {
             .header_area .navbar .nav .nav-item.submenu ul .nav-item:last-child {
               border-bottom: none; }
             .header_area .navbar .nav .nav-item.submenu ul .nav-item:hover .nav-link {
-              background: #766dff;
+              background: rgba(185, 134, 23, 0.952);;
               color: #fff; }
         @media (min-width: 992px) {
           .header_area .navbar .nav .nav-item.submenu:hover ul {
